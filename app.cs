@@ -1,1 +1,1 @@
-conole.writeline("Estou no curso de Alura");
+console.writeline("Estou no curso de Alura");
